@@ -17,7 +17,8 @@ The Repository(Repo) is organized according to the different lecture topics and 
 * DOC - documentation of Tools, Services, Technologies, Topics etc.
 * LINKS - additional sources and information for special topics of the lectures
 
-![KETE-background](https://user-images.githubusercontent.com/52699611/178996592-63d595e3-4d7f-4988-b7a0-08dc3f5b5939.jpeg)
+![KETE-logo](https://user-images.githubusercontent.com/52699611/186684464-096ec839-7b3c-4bee-99c9-edd429408f67.png)
+
 
 
 
