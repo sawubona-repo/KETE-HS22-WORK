@@ -34,7 +34,7 @@ currently 3.6, of the Python language.
 ### 1.1 Using Jupyter/Python in the Cloud
 
 The easiest way to use Jupyter notebooks is to sign up for a free account on a cloud-based service such as
-[Google Colab](https://colab.research.google.com/) or
+**[Google Colab](https://colab.research.google.com/)** or
 [Kaggle](https://www.kaggle.com/code). You will need continuous
 internet connectivity to access your work, but the advantages are there
 is no software to install or maintain. All you need is a modern web
@@ -83,7 +83,7 @@ startup of the notebook environment and manage the update process.
 If you are using a cloud-based service a Jupyter session will be started
 when you log on.
 
-When you are accessing yor Collaboratory Account wih opening a notebook file (e.g."Willkommen bei Collaboratory") you should see a browser
+When you are accessing yor **Collaboratory Account** with opening a notebook file (e.g."Willkommen bei Collaboratory") you should see a browser
 window like this:
 
 ![Screen Shot Jupyter Session](figures/Screen-Shot-Colab-Google-Session.jpg)
