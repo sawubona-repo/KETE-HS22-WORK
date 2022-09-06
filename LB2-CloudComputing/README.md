@@ -1,5 +1,5 @@
 # LB2 - Cloud Computing README
-###### Last update: 6/10/21 dbe
+> ###### Last update: 6/10/21 dbe
 </br>
 
 ## Tasks AFTER the LB2 Cloud Computing session  
